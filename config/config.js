@@ -18,7 +18,7 @@ process.env.SEED = '53m1ll4T0k3n';
 // ========== Códigos de respuesta de los servicios solicitados ========== //
 codRespuesta = {
     exito: 'AV200',
-    noDatos: 'AV201',
+    noDatos: 'AV201', 
     error: 'AV400'
 };
 
